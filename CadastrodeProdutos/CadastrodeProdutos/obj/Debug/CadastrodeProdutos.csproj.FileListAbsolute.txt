@@ -1,0 +1,12 @@
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\bin\Debug\CadastrodeProdutos.exe.config
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\bin\Debug\CadastrodeProdutos.exe
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\bin\Debug\CadastrodeProdutos.pdb
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\obj\Debug\CadastrodeProdutos.csprojAssemblyReference.cache
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\obj\Debug\CadastrodeProdutos.Adicionar.resources
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\obj\Debug\CadastrodeProdutos.Principal.resources
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\obj\Debug\CadastrodeProdutos.Properties.Resources.resources
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\obj\Debug\CadastrodeProdutos.csproj.GenerateResource.cache
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\obj\Debug\CadastrodeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\obj\Debug\CadastrodeProdutos.exe
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\obj\Debug\CadastrodeProdutos.pdb
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\CadastrodeProdutos\CadastrodeProdutos\obj\Debug\CadastrodeProdutos.Alterar.resources
